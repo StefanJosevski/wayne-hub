@@ -76,7 +76,7 @@ The "Intel Feed" panel loads top headlines automatically. Click TECH / FINANCE /
 Type a task in the "DIRECTIVES" panel and press Enter or click +. Click the checkbox to mark complete. Click ✕ to delete. Use ALL / ACTIVE / DONE filters to view subsets. Data persists on page refresh.
 
 **Step 5 — Customization:**
-- Click ◐ NIGHT / ☀ DAY to toggle light/dark mode (persisted).
+- Click NIGHT / DAY to toggle light/dark mode (persisted).
 - Paste an image URL in the background input and click APPLY to set a custom background (persisted). Click RESET to clear.
 - Use the top nav (ALL SYSTEMS / INTEL FEED / OPERATIONS) to show/hide widget groups.
 
