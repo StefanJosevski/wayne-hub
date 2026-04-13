@@ -94,11 +94,11 @@ Early versions of WeatherWidget triggered infinite re-fetch loops because `fetch
 
 ## 3. Demo Video Link
 
-**URL:** *()*
+**URL:** *(https://www.youtube.com/watch?v=19tyQuGf6SM)*
 
 ---
 
-## Setup Instructions (Local Development)
+## How to do my Setup Instructions (Local Development)
 
 ```bash
 # 1. Clone the repo
