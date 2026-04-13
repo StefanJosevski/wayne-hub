@@ -5,7 +5,7 @@
 
 **Live App URL:** *(wayne-hub-henna.vercel.app)*
 
-**GitHub Repository URL:** *(paste here after pushing)*
+**GitHub Repository URL:** *(https://github.com/StefanJosevski/wayne-hub)*
 
 ---
 
@@ -94,7 +94,7 @@ Early versions of WeatherWidget triggered infinite re-fetch loops because `fetch
 
 ## 3. Demo Video Link
 
-**URL:** *(paste YouTube or Google Drive link here — ensure "Anyone with link can view")*
+**URL:** *()*
 
 ---
 
@@ -123,7 +123,7 @@ npm start
 1. Push code to GitHub
 2. Visit vercel.com → New Project → Import your repo
 3. Vercel auto-detects Create React App and deploys
-4. My URL: `https://wayne-hub.vercel.app`
+4. My URL: `https://wayne-hub-henna.vercel.app/`
 
 ---
 
