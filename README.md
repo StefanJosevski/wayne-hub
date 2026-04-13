@@ -1,9 +1,9 @@
 # Wayne Industries Executive Command Hub
 ### CSI 3150 W26 — Final Project | Option 1: Smart Productivity Hub
 
-**Name:** ________________________
+**Name:** Stefan Josevski
 
-**Live App URL:** *(deploy to Vercel: your-project-name.vercel.app)*
+**Live App URL:** *(wayne-hub-henna.vercel.app)*
 
 **GitHub Repository URL:** *(paste here after pushing)*
 
@@ -102,16 +102,15 @@ Early versions of WeatherWidget triggered infinite re-fetch loops because `fetch
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/wayne-hub.git
+git clone https://github.com/StefanJosevski/wayne-hub.git
 cd wayne-hub
 
 # 2. Install dependencies
 npm install
 
 # 3. Add your API keys in:
-#    src/components/WeatherWidget.js  → replace REPLACE_WITH_YOUR_OPENWEATHERMAP_KEY
-#    src/components/NewsWidget.js     → replace REPLACE_WITH_YOUR_NEWSAPI_KEY
-
+#    src/components/WeatherWidget.js 
+#    src/components/NewsWidget.js     
 # 4. Start the development server
 npm start
 ```
@@ -124,7 +123,7 @@ npm start
 1. Push code to GitHub
 2. Visit vercel.com → New Project → Import your repo
 3. Vercel auto-detects Create React App and deploys
-4. Your URL: `https://wayne-hub.vercel.app`
+4. My URL: `https://wayne-hub.vercel.app`
 
 ---
 
